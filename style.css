@@ -1,0 +1,53 @@
+/*body
+{
+	background-color: #BDBDBD; 
+}*/
+#container
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+
+.jeu
+{
+	border: 3px black solid;
+	/*border-color: #8C9392;*/
+	background-color:  #8C9392;
+
+}
+
+
+img
+{
+	float: left;
+	background-color: #8C9392;
+	height: 10%;
+	width: 10%; 
+
+}
+
+
+
+a
+{
+	text-decoration: none
+	color:black;
+}
+
+a:hover
+{
+ text-decoration: underline;
+color: blue;
+}
+
+a:visited 
+{
+    color: #000;
+}
+
+h1
+{
+	text-align:center;
+}
